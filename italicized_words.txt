@@ -1,0 +1,12 @@
+lexical analyzer
+syntax analyzer
+Simplicity
+Efficiency
+Portability
+lexemes
+token
+Top down
+Bottom up
+handle
+phrase
+simple phrase
